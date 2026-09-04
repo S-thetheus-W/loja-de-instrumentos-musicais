@@ -14,9 +14,27 @@ class MyApp extends StatelessWidget {
       title: 'Loja de Instrumentos',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepOrange),
-        useMaterial3: true,
-      ),
+      useMaterial3: true,
+      brightness: Brightness.dark,
+
+      colorScheme: ColorScheme.fromSeed(
+    seedColor: const Color(0xFFA4C9FF),
+    brightness: Brightness.dark,
+  ),
+
+    scaffoldBackgroundColor: const Color(0xFF0B1326),
+
+    appBarTheme: const AppBarTheme(
+    backgroundColor: Colors.transparent,
+    foregroundColor: Color(0xFFDAE2FD),
+    elevation: 0,
+  ),
+
+  floatingActionButtonTheme: const FloatingActionButtonThemeData(
+    backgroundColor: Color(0xFFA4C9FF),
+    foregroundColor: Color(0xFF0B1326),
+  ),
+),
       home: const HomePage(),
     );
   }

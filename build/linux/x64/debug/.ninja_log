@@ -1,29 +1,29 @@
 # ninja log v6
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/libflutter_linux_gtk.so	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_engine.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_value.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_view.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	bf2b301aaecb94bd
-1	11093	1788302772484003624	flutter/_phony_	bf2b301aaecb94bd
-1	11093	1788302772484003624	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/build/linux/x64/debug/flutter/_phony_	bf2b301aaecb94bd
-11093	12084	1788302783577664060	runner/CMakeFiles/loja_de_musica.dir/main.cc.o	5a795e66d8091583
-11094	12138	1788302783578794790	runner/CMakeFiles/loja_de_musica.dir/__/flutter/generated_plugin_registrant.cc.o	1f86e441b8593961
-11094	12198	1788302783578199323	runner/CMakeFiles/loja_de_musica.dir/my_application.cc.o	568703a309740a00
-12198	12397	1788302784682440225	intermediates_do_not_run/loja_de_musica	dcb739e8f3938ca7
-12398	12423	1788302784881791609	CMakeFiles/install.util	fa5efd28cd9f650c
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/libflutter_linux_gtk.so	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_engine.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_value.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/fl_view.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	bf2b301aaecb94bd
+2	11114	1788493596084993899	flutter/_phony_	bf2b301aaecb94bd
+2	11114	1788493596084993899	/home/matheusoliveira/Downloads/Loja de Instrumento musical/loja_de_musica/build/linux/x64/debug/flutter/_phony_	bf2b301aaecb94bd
+11115	11864	1788493607199046452	runner/CMakeFiles/loja_de_musica.dir/main.cc.o	5a795e66d8091583
+11116	11900	1788493607199854166	runner/CMakeFiles/loja_de_musica.dir/__/flutter/generated_plugin_registrant.cc.o	1f86e441b8593961
+11115	11974	1788493607199830420	runner/CMakeFiles/loja_de_musica.dir/my_application.cc.o	568703a309740a00
+11974	12154	1788493608058356573	intermediates_do_not_run/loja_de_musica	dcb739e8f3938ca7
+12155	12187	1788493608239824400	CMakeFiles/install.util	fa5efd28cd9f650c

@@ -6,6 +6,7 @@ class Instrumento {
   final double preco;
   final DateTime dataFabricacao;
   final bool emEstoque;
+  final String imagemUrl;
 
   Instrumento({
     required this.nome,
@@ -13,6 +14,7 @@ class Instrumento {
     required this.preco,
     required this.dataFabricacao,
     this.emEstoque = true,
+    this.imagemUrl = '',
   });
 
   String ficha() {
