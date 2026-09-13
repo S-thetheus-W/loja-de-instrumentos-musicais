@@ -1,0 +1,9 @@
+name: loja_instrumentos_dart
+description: Parte 1 do trabalho bimestral - Dart
+version: 1.0.0
+
+environment:
+  sdk: '>=3.12.0 <4.0.0'
+
+dependencies:
+  intl: ^0.20.3

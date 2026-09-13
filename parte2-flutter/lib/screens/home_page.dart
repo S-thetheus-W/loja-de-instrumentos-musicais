@@ -58,7 +58,7 @@ class _HomePageState extends State<HomePage> {
         ),
         SizedBox(width: 10),
         Text(
-          'Loja de Instrumentos',
+          'Nexus Music',
           style: TextStyle(
             fontWeight: FontWeight.w600,
           ),
